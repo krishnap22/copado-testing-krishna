@@ -4,5 +4,10 @@
         <members>lwctest</members>
         <name>LightningComponentBundle</name>
     </types>
+    <types>
+        <members>COO</members>
+        <members>CustomerSupportInternational</members>
+        <name>Role</name>
+    </types>
     <version>54.0</version>
 </Package>
