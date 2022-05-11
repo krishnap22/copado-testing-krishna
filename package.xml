@@ -4,11 +4,5 @@
         <members>TestLabel</members>
         <name>CustomLabel</name>
     </types>
-    <types>
-        <members>CEO</members>
-        <members>CFO</members>
-        <members>COO</members>
-        <name>Role</name>
-    </types>
     <version>54.0</version>
 </Package>
