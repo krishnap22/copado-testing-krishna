@@ -4,5 +4,9 @@
         <members>TestLabel</members>
         <name>CustomLabel</name>
     </types>
+    <types>
+        <members>CustomerSupportInternational</members>
+        <name>Role</name>
+    </types>
     <version>54.0</version>
 </Package>
