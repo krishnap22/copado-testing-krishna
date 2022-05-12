@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>TestLabel</fullName>
+        <fullName>TestLabel-t5</fullName>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>TestLabel</shortDescription>
@@ -13,12 +13,5 @@
         <protected>true</protected>
         <shortDescription>TestLabel200</shortDescription>
         <value>TestLabel2</value>
-    </labels>
-    <labels>
-        <fullName>TestLabel3</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>TestLabel3</shortDescription>
-        <value>Testlabel_3</value>
     </labels>
 </CustomLabels>
