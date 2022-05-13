@@ -7,18 +7,4 @@
         <shortDescription>TestLabel</shortDescription>
         <value>test label12</value>
     </labels>
-    <labels>
-        <fullName>TestLabel-v1</fullName>
-        <language>en_US1</language>
-        <protected>true</protected>
-        <shortDescription>TestLabelAC</shortDescription>
-        <value>test label123</value>
-    </labels>
-    <labels>
-        <fullName>TestLabel2</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>TestLabel2</shortDescription>
-        <value>TestLabel2</value>
-    </labels>
 </CustomLabels>
