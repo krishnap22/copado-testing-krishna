@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>TestLabel</fullName>
-        <language>en_US</language>
+        <fullName>TestLabel-v1</fullName>
+        <language>en_US1</language>
         <protected>true</protected>
-        <shortDescription>TestLabel</shortDescription>
-        <value>test label12</value>
+        <shortDescription>TestLabelAC</shortDescription>
+        <value>test label123</value>
     </labels>
     <labels>
         <fullName>TestLabel2</fullName>
