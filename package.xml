@@ -5,8 +5,8 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>CEO</members>
-        <name>Role</name>
+        <members>TestLabel</members>
+        <name>CustomLabel</name>
     </types>
     <version>54.0</version>
 </Package>
