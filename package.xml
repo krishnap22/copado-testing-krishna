@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>CustomChange</members>
-        <name>FlexiPage</name>
-    </types>
-    <types>
-        <members>CEO</members>
-        <members>CFO</members>
-        <name>Role</name>
+        <members>TestLabel3</members>
+        <name>CustomLabel</name>
     </types>
     <version>54.0</version>
 </Package>

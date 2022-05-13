@@ -21,4 +21,11 @@
         <shortDescription>TestLabel200</shortDescription>
         <value>TestLabel2</value>
     </labels>
+    <labels>
+        <fullName>TestLabel3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>TestLabel3</shortDescription>
+        <value>Testlabel_3</value>
+    </labels>
 </CustomLabels>
