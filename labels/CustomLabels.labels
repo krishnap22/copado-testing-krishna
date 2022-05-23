@@ -5,6 +5,13 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>TestLabel</shortDescription>
-        <value>test label12</value>
+        <value>test label1</value>
+    </labels>
+    <labels>
+        <fullName>TestLabel2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>TestLabel</shortDescription>
+        <value>test label2</value>
     </labels>
 </CustomLabels>
