@@ -5,10 +5,6 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>TestCustomPermissionSet</members>
-        <name>PermissionSet</name>
-    </types>
-    <types>
         <members>TestCustomProfile</members>
         <name>Profile</name>
     </types>
