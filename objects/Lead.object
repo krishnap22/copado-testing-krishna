@@ -27,6 +27,11 @@
         <fields>Company</fields>
         <label>testcompactlayout</label>
     </compactLayouts>
+    <fields>
+        <fullName>Industry</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+    </fields>
     <recordTypes>
         <fullName>testrecordtype</fullName>
         <active>true</active>
@@ -53,26 +58,6 @@
             </values>
             <values>
                 <fullName>Chemicals</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Communications</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Construction</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Consulting</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Education</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Electronics</fullName>
                 <default>false</default>
             </values>
             <values>
