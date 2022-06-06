@@ -5,7 +5,7 @@
         <description>TestLeadProcess</description>
         <isActive>true</isActive>
         <values>
-            <fullName>Closed - Converted</fullName>
+            <fullName>Closed - Converted1</fullName>
             <default>false</default>
         </values>
         <values>
