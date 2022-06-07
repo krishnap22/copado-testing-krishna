@@ -21,6 +21,27 @@
             <default>false</default>
         </values>
     </businessProcesses>
+    <businessProcesses>
+        <fullName>TestLeadProcess1</fullName>
+        <description>TestLeadProcess1</description>
+        <isActive>true</isActive>
+        <values>
+            <fullName>Closed - Converted</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Closed - Not Converted</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Open - Not Contacted</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>Working - Contacted</fullName>
+            <default>false</default>
+        </values>
+    </businessProcesses>
     <compactLayouts>
         <fullName>testcompactlayout</fullName>
         <fields>CurrentGenerators__c</fields>
@@ -225,5 +246,11 @@
                 <default>false</default>
             </values>
         </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>testrecordtype1</fullName>
+        <active>true</active>
+        <businessProcess>TestLeadProcess1</businessProcess>
+        <label>testrecordtype1</label>
     </recordTypes>
 </CustomObject>
