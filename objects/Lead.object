@@ -253,6 +253,27 @@
         <type>Default</type>
     </actionOverrides>
     <businessProcesses>
+        <fullName>TestLeadProcess</fullName>
+        <description>TestLeadProcess</description>
+        <isActive>true</isActive>
+        <values>
+            <fullName>Closed - Converted</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Closed - Not Converted</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Open - Not Contacted</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>Working - Contacted</fullName>
+            <default>false</default>
+        </values>
+    </businessProcesses>
+    <businessProcesses>
         <fullName>TestLeadProcess1</fullName>
         <description>TestLeadProcess1</description>
         <isActive>true</isActive>
@@ -559,6 +580,27 @@
         <filterScope>Everything</filterScope>
         <label>View - Custom 2</label>
     </listViews>
+    <recordTypes>
+        <fullName>testrecordtype</fullName>
+        <active>false</active>
+        <businessProcess>TestLeadProcess</businessProcess>
+        <label>testrecordtype</label>
+        <picklistValues>
+            <picklist>testpicklist__c</picklist>
+            <values>
+                <fullName>value1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>value2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>value3</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
     <recordTypes>
         <fullName>testrecordtype1</fullName>
         <active>true</active>
