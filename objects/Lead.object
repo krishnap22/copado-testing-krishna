@@ -274,6 +274,12 @@
         </values>
     </businessProcesses>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayouts>
+        <fullName>testcompactlayout</fullName>
+        <fields>CurrentGenerators__c</fields>
+        <fields>Company</fields>
+        <label>testcompactlayout</label>
+    </compactLayouts>
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
     <externalSharingModel>Private</externalSharingModel>
@@ -559,6 +565,13 @@
         <filterScope>Everything</filterScope>
         <label>View - Custom 2</label>
     </listViews>
+    <recordTypes>
+        <fullName>testrecordtype</fullName>
+        <active>true</active>
+        <businessProcess>TestLeadProcess</businessProcess>
+        <compactLayoutAssignment>testcompactlayout</compactLayoutAssignment>
+        <label>testrecordtype</label>
+    </recordTypes>
     <recordTypes>
         <fullName>testrecordtype1</fullName>
         <active>true</active>
