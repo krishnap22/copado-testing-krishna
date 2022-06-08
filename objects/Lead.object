@@ -587,8 +587,8 @@
                 <default>true</default>
             </values>
             <values>
-                <fullName>value4</fullName>
-                <default>false</default>
+                <fullName>value3</fullName>
+                <default>true</default>
             </values>
         </picklistValues>
     </recordTypes>
