@@ -581,7 +581,7 @@
         <businessProcess>TestLeadProcess</businessProcess>
         <label>testrecordtype</label>
         <picklistValues>
-            <picklist>testpicklist__c</picklist>
+            <picklist>testpicklist1__c</picklist>
             <values>
                 <fullName>value1</fullName>
                 <default>true</default>
