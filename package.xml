@@ -5,10 +5,6 @@
         <name>BusinessProcess</name>
     </types>
     <types>
-        <members>Lead.testpicklist__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
         <members>Lead.testrecordtype</members>
         <name>RecordType</name>
     </types>
