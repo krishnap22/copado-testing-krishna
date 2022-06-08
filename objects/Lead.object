@@ -583,8 +583,8 @@
         <picklistValues>
             <picklist>testpicklist__c</picklist>
             <values>
-                <fullName>value1</fullName>
-                <default>false</default>
+                <fullName>value12</fullName>
+                <default>true</default>
             </values>
             <values>
                 <fullName>value4</fullName>
