@@ -517,14 +517,9 @@
                     <label>value1</label>
                 </value>
                 <value>
-                    <fullName>value2</fullName>
+                    <fullName>value4</fullName>
                     <default>false</default>
-                    <label>value2</label>
-                </value>
-                <value>
-                    <fullName>value3</fullName>
-                    <default>false</default>
-                    <label>value3</label>
+                    <label>value4</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
@@ -599,11 +594,7 @@
                 <default>false</default>
             </values>
             <values>
-                <fullName>value2</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>value3</fullName>
+                <fullName>value4</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
