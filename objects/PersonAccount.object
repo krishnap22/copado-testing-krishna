@@ -229,4 +229,9 @@
             </values>
         </picklistValues>
     </recordTypes>
+    <recordTypes>
+        <fullName>PA_record_Type</fullName>
+        <active>true</active>
+        <label>PA record Type</label>
+    </recordTypes>
 </CustomObject>
