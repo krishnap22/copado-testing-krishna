@@ -5,6 +5,7 @@
         <active>true</active>
         <description>ELENA</description>
         <label>ELENA</label>
+        <compactLayoutAssignment>testcompactlayout</compactLayoutAssignment>
         <picklistValues>
             <picklist>AccountSource</picklist>
             <values>
