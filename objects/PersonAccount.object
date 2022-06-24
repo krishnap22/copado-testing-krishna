@@ -3,24 +3,23 @@
     <recordTypes>
         <fullName>testrecordtype4</fullName>
         <active>true</active>
-        <compactLayoutAssignment>testcompactlayout_pa2</compactLayoutAssignment>
         <label>testrecordtype4</label>
         <picklistValues>
-            <picklist>AccountSource</picklist>
+            <picklist>AccountSource1</picklist>
             <values>
                 <fullName>Other</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>Partner Referral</fullName>
+                <fullName>Partner Referral1</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>Phone Inquiry</fullName>
+                <fullName>Phone Inquiry1</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>Purchased List</fullName>
+                <fullName>Purchased List1</fullName>
                 <default>false</default>
             </values>
             <values>
@@ -29,13 +28,13 @@
             </values>
         </picklistValues>
         <picklistValues>
-            <picklist>Industry</picklist>
+            <picklist>Industry1</picklist>
             <values>
-                <fullName>Agriculture</fullName>
+                <fullName>Agriculture1</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>Apparel</fullName>
+                <fullName>Apparel1</fullName>
                 <default>false</default>
             </values>
             <values>
@@ -156,75 +155,6 @@
             </values>
             <values>
                 <fullName>Utilities</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>Ownership</picklist>
-            <values>
-                <fullName>Other</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Private</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Public</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Subsidiary</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>Rating</picklist>
-            <values>
-                <fullName>Cold</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Hot</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>PA Test</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Warm</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>Type</picklist>
-            <values>
-                <fullName>Channel Partner %2F Reseller</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Customer - Channel</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Customer - Direct</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Installation Partner</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Other</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Prospect</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Technology Partner</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
