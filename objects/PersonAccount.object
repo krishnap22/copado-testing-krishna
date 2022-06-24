@@ -5,21 +5,21 @@
         <active>false</active>
         <label>testrecordtype4</label>
         <picklistValues>
-            <picklist>AccountSource1</picklist>
+            <picklist>AccountSource</picklist>
             <values>
                 <fullName>Other</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>Partner Referral1</fullName>
+                <fullName>Partner Referral</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>Phone Inquiry1</fullName>
+                <fullName>Phone Inquiry</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>Purchased List1</fullName>
+                <fullName>Purchased List</fullName>
                 <default>false</default>
             </values>
             <values>
@@ -30,11 +30,11 @@
         <picklistValues>
             <picklist>Industry1</picklist>
             <values>
-                <fullName>Agriculture1</fullName>
+                <fullName>Agriculture</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>Apparel1</fullName>
+                <fullName>Apparel</fullName>
                 <default>false</default>
             </values>
             <values>
