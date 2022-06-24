@@ -3,6 +3,7 @@
     <recordTypes>
         <fullName>testrecordtype4</fullName>
         <active>true</active>
+        <compactLayoutAssignment>testcompactlayout_pa2</compactLayoutAssignment>
         <label>testrecordtype4</label>
         <picklistValues>
             <picklist>AccountSource</picklist>
