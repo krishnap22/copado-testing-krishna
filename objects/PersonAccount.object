@@ -234,4 +234,9 @@
         <active>true</active>
         <label>PA record Type</label>
     </recordTypes>
+    <recordTypes>
+        <fullName>testrecordtype4</fullName>
+        <active>true</active>
+        <label>testrecordtype4</label>
+    </recordTypes>
 </CustomObject>
