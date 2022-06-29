@@ -517,14 +517,9 @@
                     <label>value1</label>
                 </value>
                 <value>
-                    <fullName>value2</fullName>
+                    <fullName>value4</fullName>
                     <default>false</default>
-                    <label>value2</label>
-                </value>
-                <value>
-                    <fullName>value3</fullName>
-                    <default>false</default>
-                    <label>value3</label>
+                    <label>value4</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
@@ -588,10 +583,21 @@
     </listViews>
     <recordTypes>
         <fullName>testrecordtype</fullName>
-        <active>true</active>
+        <active>false</active>
         <businessProcess>TestLeadProcess</businessProcess>
         <compactLayoutAssignment>testcompactlayout</compactLayoutAssignment>
         <label>testrecordtype</label>
+        <picklistValues>
+            <picklist>testpicklist__c</picklist>
+            <values>
+                <fullName>value1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>value4</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
     </recordTypes>
     <recordTypes>
         <fullName>testrecordtype1</fullName>
