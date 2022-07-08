@@ -275,6 +275,11 @@
     </businessProcesses>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <compactLayouts>
+        <fullName>complayouttest</fullName>
+        <fields>ProductInterest__c</fields>
+        <label>complayouttest</label>
+    </compactLayouts>
+    <compactLayouts>
         <fullName>testcompactlayout</fullName>
         <fields>CurrentGenerators__c</fields>
         <fields>Company</fields>
@@ -584,6 +589,13 @@
                 <default>false</default>
             </values>
         </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>testrecordtypecomplayout</fullName>
+        <active>true</active>
+        <businessProcess>TestLeadProcess</businessProcess>
+        <compactLayoutAssignment>complayouttest</compactLayoutAssignment>
+        <label>testrecordtypecomplayout</label>
     </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>FULL_NAME</customTabListAdditionalFields>
