@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>PersonAccount.testrecordtype4</members>
-        <members>Lead.testcompactlayout</members>
+        <members>Lead.complayouttest</members>
         <name>CompactLayout</name>
     </types>
     <types>
-        <members>Lead.testrecordtype</members>
+        <members>Lead.testrecordtypecomplayout</members>
         <name>RecordType</name>
     </types>
     <version>55.0</version>
