@@ -615,7 +615,6 @@
         <fullName>testrecordtypecomplayout</fullName>
         <active>true</active>
         <businessProcess>TestLeadProcess</businessProcess>
-        <compactLayoutAssignment>complayouttest</compactLayoutAssignment>
         <label>testrecordtypecomplayout</label>
     </recordTypes>
     <searchLayouts>
