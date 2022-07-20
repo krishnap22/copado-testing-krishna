@@ -606,6 +606,12 @@
             </values>
         </picklistValues>
     </recordTypes>
+    <recordTypes>
+        <fullName>testrecordtypecomplayout</fullName>
+        <active>true</active>
+        <businessProcess>TestLeadProcess</businessProcess>
+        <label>testrecordtypecomplayout</label>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>FULL_NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>LEAD.COMPANY</customTabListAdditionalFields>
