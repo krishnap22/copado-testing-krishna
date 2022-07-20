@@ -296,10 +296,10 @@
     </businessProcesses>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <compactLayouts>
-        <fullName>testcompactlayout</fullName>
+        <fullName>testcompactlayout1</fullName>
         <fields>CurrentGenerators__c</fields>
         <fields>Company</fields>
-        <label>testcompactlayout</label>
+        <label>testcompactlayout1</label>
     </compactLayouts>
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
@@ -590,7 +590,7 @@
         <fullName>testrecordtype</fullName>
         <active>true</active>
         <businessProcess>TestLeadProcess</businessProcess>
-        <compactLayoutAssignment>testcompactlayout</compactLayoutAssignment>
+        <compactLayoutAssignment>testcompactlayout1</compactLayoutAssignment>
         <label>testrecordtype</label>
     </recordTypes>
     <recordTypes>
