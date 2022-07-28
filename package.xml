@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>PersonAccount.testrecordtype4</members>
-        <members>Lead.testcompactlayout</members>
-        <name>CompactLayout</name>
+        <members>ChangeRequest</members>
+        <name>CustomObject</name>
     </types>
     <types>
-        <members>Lead.testrecordtype</members>
-        <name>RecordType</name>
+        <members>ChangeRequestBusinessReason</members>
+        <members>ChangeRequestStatus</members>
+        <name>StandardValueSet</name>
     </types>
     <version>55.0</version>
 </Package>
