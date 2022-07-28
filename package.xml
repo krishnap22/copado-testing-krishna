@@ -5,12 +5,9 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>ChangeRequestBusinessReason</members>
         <members>ChangeRequestStatus</members>
         <name>StandardValueSet</name>
-    </types>
-    <types>
-        <members>Case.ChangePriorityToHigh</members>
-        <name>WorkflowFieldUpdate</name>
     </types>
     <version>55.0</version>
 </Package>
