@@ -6,7 +6,6 @@
     </types>
     <types>
         <members>ChangeRequestBusinessReason</members>
-        <members>ChangeRequestCategory</members>
         <members>ChangeRequestStatus</members>
         <name>StandardValueSet</name>
     </types>
