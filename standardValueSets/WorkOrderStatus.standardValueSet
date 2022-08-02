@@ -44,4 +44,10 @@
         <label>Canceled</label>
         <groupingString>Canceled</groupingString>
     </standardValue>
+    <standardValue>
+        <fullName>teststatus</fullName>
+        <default>false</default>
+        <label>teststatus</label>
+        <groupingString>OnHold</groupingString>
+    </standardValue>
 </StandardValueSet>
